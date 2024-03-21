@@ -1,0 +1,235 @@
+1.Ýandak-Alhagi Persarum-Верблюжыя Колючка
+2.Süle-Avena Sativa-Овес Посевной
+3.Şaly-Oryza Sativa-Рис Посевной
+4.Bugdaý-Triticum Vulgare-Пщеница
+5.Ýer alma-Solanum Tuberosum-Картофель Посевной
+6.Mekgejöwen-Zea Mays-Кукуруза Обыкновенная
+7.Syçratgy-Cichorium Intybus-Цикорий Обыкновенный
+8.Tozga-Taraxacum Officinale-Одуванчик Лекарственный
+9.Uly Aýypenje-Articum Lappa-Лопух Большой
+10.Dermanlyk Çerbiye-Althaea Officinalis-Алтей Лекарственный
+11.Uly Atgulak-Plantago Major-Подорожник Большой
+12.Ermeni Çerbiye-Althaea Armenica-Алтей Армянский
+13.Büreli Atgulak-Plantagum Psyllium-Подорошник Блошный
+14.Lipa Ýürek şekilli-Tilia Cordata Mill-Липа Серцевидная
+15.Eje we Ejelik-Tussilago Farfara-Мать И Мачеха
+16.Adaty Zygyr-Linum Usitatissimum-Лен Обыкновенный
+17.Şugundyr-Beta Vulgaris-Свекло Огородная
+18.Deňiz kelemi-Laminaria Japonica-Ламинария Японская
+19.Çit çiti-Urtica dioica-Крапива двудомная
+20.Çopantorba-Capsella bursa pastoris-Постушья сумка
+21.Towşandodak-Lagochilus inebrians-Зайцегуб опряняющий
+22.Adaty kalina-Viburnum opulus-Калина обыкновенная
+23.Boýbodran-Achillea Millefolium-Тысячелистник обыкновенный
+24.Maý bägüli-Roza majalis-Майская роза
+25.Itburun-Rosa canina-Шиповник собачий
+26.Grek hozy-Juglans regia-Грецкий орех
+27.Limon-Sitrus limon-Лимон
+28.Ekilýän greçiha-Fagоpyrum sagitatum-Гречиха посевная
+29.Gara smarodina-Ribes Nigrum-Смородина чёрная
+30.Ýapon saforasy-Japonica saphora-Софора японская
+31.Ekilýän käşir-Daucus sativus-Морковь посевная
+32.Adaty kädi-Cucurbitae pepo-Тыква обыкновенная
+33.Dermanlyk dyrnaklyja-Calendula officinalis-Ноготки лекарственные
+34.Keçegül-Gnophalium uliginosum-Сушеница топяная
+35.Üç bölek goşadiş-Bidens tripartitа-Череда трёхраздельная
+36.Adaty rýabina-Sorbus aucuparia-Рябина обыкновенная
+37.Çasaran-Hippophae rhamnoides-Облепиха крушиновидная
+38.Şokolad agajy-Theobroma cacao-Шоколадное дерево
+39.Adaty badam-Amygdalus communis-Миндаль обыкновенная
+40.Adaty şetdaly-Persica vulgaris-Персик обыкновенный
+41.Günebakar-Helianthus annuus-Подсолнечник однолетний
+42.Çakjagunduz-Ricinus communis-Клещевина обыкновенная
+43.Ýer hozy-Arachis hypogaea-Арахис подземный
+44.Ýewropa zeýtun-Olea europaea-Маслина европейская
+45.Pisse-Pistacia vera-Фисташка настоящая
+46.Künji-Sesanum indicum-Кунжут обыкновенный
+47.Ekilýän kinza-Coriandrum sativum-Кориандр посевной
+48.Adaty hmel-Humulus lupulus-Хмель обыкновенный
+49.Ajy narpyz-Mentha piperita-Мята перечная
+50.Akkemençe-Salvia officinalis-Шалфей лекарственный
+51.Ewkalipt-Eucalyptus-Эвкалипт
+52.Adaty tmin-Carium carvi-Тмин обыкновенный
+53.Dalmat çopantelpegi-Pyrethrum cinerarii folium-Ромашка далматская
+54.Adaty arça-Juniperus communis-Можжевельник обыкновенный
+55.Adaty pižma-Tanacetum vulgare-Пижма обыкновенная
+56.Kamfora agaçy-Cinnamomum camphora-Камфорное дерево
+57.Dermanlyk waleriýana-Valeriana officinalis-Валериана лекарственная
+58.Daşly waleriýana-Patriniа intermedia-Валериана каменная
+59.Dermanlyk çopantelpek-Matricaria chamomilla-Ромашка аптечная
+60.Dag arnikasy-Arnica montano-Арника горная
+61.Sitwar ýowşany-Artemisia cina berg-Полынь цитварная
+62.Sallanýan gaýyň-Betula pendula-Берёза повислая
+63.Batga airi-Acorus calamus-Аир болотный
+64.Batga bagulnigi-Ledum palustris-Багульник болотный
+65.Arpabadyýan-Foeniculum vulgare-Фенхель обыкновенный
+66.Käkilik oty-Thymus serphyllum-Тимьян ползучий
+67.Keýik oty-Thymus vulgaris-Тимьян обыкновенный
+68.Ýakymlyja-Origanum vulgare-Дущица обыкновенная
+69.Sibir pihtasy-Abies sibirica-Пихта сибирская
+70.Adaty sosna-Pinus silvestris-Сосна обыкновенная
+71.Porsy çomuç-Ferula assafoetida-Ферула вонючая
+72.Aňňyza-Ferula gummosa-Ферула смолистая
+73.Keýik okara-Ferula oopoda-Ферула яйценогая
+74.Altyngül-Centaurium umbellatum-Золототысячник зонтичный
+75.Wahta 3 ýaprakly-Menyanthes trifoliatа-Вахта трёхлистная
+76.Sary gorçawka-Gentiana lutea-Горечавка жёльтая
+77.Sogan-Allium cepa-Лук репчатый
+78.Sarymsak-Alliumsativum-Чеснокпосевной
+79.Gorçitsa-Brаssicajuncea-Горчица сарепская
+80.Ajybadam-Amygdalus amara-Миндальгоркая
+81.Gara buzina-Sambucus nigra-Бузиначёрная
+82.Lawrоwişniýa-Laurоcerasisofficinalis-Лавровишня
+83.Gyrmyzy naprestýanka-Digitalis purpurea-Наперстянка пурпуровая
+84.Strofant kombe-Strophantus kombe-Строфант комбе
+85.Ýaz güli-Adonis vernalis-Горицвет весенний
+86.Maýlandyşy-Convallaria majalis-Ландыш майский
+87.Želtuşnik-Erysimumdiffusum-Желтушникраскидистый
+88.Adaty oleandr-Neriumoleander-Олеандробыкновенный
+89.Deňiz sogany-Drimiamaritimа-Морскойлук
+90.Gyrmyzy moroznik-Hellоborus purpuroscens-Морозниккрасноватый
+91.Kendir-Apocynumcannabinum-Кендырьконаплевый
+92.Nippon dioskoreýasy-Dioscorea nipponica-Диоскорея ниппонская
+93.Kawkaz dioskoreýasy-D caucasica-Д кавказская
+94.Zamanika-Echinopanax elatum-Заманиха высокая
+95.Ýukka-Yukka gloriosa-Юкка славная
+96.Demirtiken-Tribulus terrestris-Якорцы стелющиеся
+97.Manjur araliýasy-Aralia mandshurica-Аралия маньчжурская
+98.At kaştany-Aesculus hyppocastanum-Конский каштан
+99.Süýji buýan-Glycyrrhiza glabra-Солодка голая
+100.Ural buýany-Glycyrrhiza uralensis-С уральская
+101.Böwrek çaýy-Orthosiphon stamineus-Почечный чай
+102.Gyrmyzy ehinaseýa-Echinacea purpurea-Эхинацея пурпурная
+103.Meýdan hwoşy-Equisetum arvense-Хвощ полевой
+104.Mawy senýuha-Polemonium coeruleum-Синюха голубая
+105.Ýuka ýaprakly istod-Polygala tenuifolia-Истод тонколистый
+106.Sibir istody-Polygala sibirica-И сибирский
+107.Ak andyz-Bryonia alba-Переступень белый
+108.Ýaz primulasy-Primula veris-Первоцвет весенний
+109.Patriniý-Patrinia intermedia-Патриния средняя
+110.Daur simisifuga-Cimicifuga dahurica-Цимицифуга даурская
+111.Ženşen-Panax ginseng-Панакс женьшень
+112.Hytaý limonnigi-Schisandra chinensis-Лимонник китайский
+113.Tikenli eleuterokokk-Eleutherococcus senticosus-Элеутерококк колючий
+114.Galkan görnüşli podofill-Podophyllum peltatum-Подофилл щитовидный
+115.Lewzeýa-Rhaponticum carthamoides-Левзея сафлоровидная
+116.Aýygulak-Arctostaphylos uva ursi-Толокнянка обыкновенная
+117.Brusnika-Vaccinium vitis idaea-Брусника
+118.Gülgüne rodiola-Gülgüne rodiola-Gülgüne rodiola
+119.Ewkomiýa-Eucommia ulmoides-Эвкоммия вязолистная
+120.Erkek paportnik-Dryopteris filix mas-Мужской папоротник
+121.Kruşina-Frangula alnus-Крушина ольховидная
+122.Garatiken-Rhamnus cathartica-Жостер слабительный
+123.Yşgyn-Rheum palmatum-Ревень тангутский
+124.At turşujasy-Rumex confertus-Щавель конский
+125.Senaýymekge-Cassia acutifolia-Сенна александрийская
+126.Agaç görnüşli sabr-Аlоё arborescens-Алоэ древовидное
+127.Çöp boýa-Rubia tinctorum-Марена красильная
+128.Jerbaý-Hypericum perforatum-Зверобой продырявленный
+129.Eşekýorunja-Melilotus officinalis Desr-Донник лекарственный
+130.Injir-Ficus carica L-Инжиp
+131.Uly ammi-Ammi majus L-Амми большая
+132.Gandyrýar-Psoralea drupacea-Псоралея костянковая
+133.Goriçnik-Peucedanum ruthenicum-Горичник русский
+134.Morisonyň goriçnigi-Peucedanum morisonii-Горичник Морисона
+135.Ekilýän Pasternak-Pastinaca sativa-Пастернак посевной
+136.Sibir wzdutoplodnigi-Phlojodicarpus sibiricus-Вздутоплодник сибирский
+137.Diş ammisi-Ammi visnaga Lam-Амми зубная
+138.Ekilýän giýebir-Anethum graveolens-Укроп огородный
+139.Çaý-Tea sinensis-Чай
+140.Apelsin-Citrus sinensis-Апельсиновое дерево
+141.Mandarin-Citrus reticulate-Мандарин
+142.Gyzyl alyç-Crataegus sanguinea-Боярышник кроваво красный
+143.Tikenli alyç-Crataegus laevigata-боярышник колючий
+144.Daur alyjy-Crataegus dahurica-боярышник даурский
+145.Bir miweli alyç-Crataegus monogyna-боярышник однопестичный
+146.Bäş miweli alyç-Crataegus pentagyna-боярышник пятипестичный
+147.Gyşaran gül ýaprajykly alyç-Crataegus cur visepala-боярышник отогнуточашелистиковый
+148.Bäşganatly şirguýryk-Leonurus quinquelobatus-Пустырник Пятилопастный
+149.Ýürek şirguýrugy-Leonurus cardiaca-Пустырник сердечный
+150.Benewşe-Viola tricolor-Фиалка трехцветная
+151.Guş Kyrkbogyny-Polygonum aviсulare-Горец птичий
+152.Suw kyrkbogun-Polygonum hydropiper-Водяной перец
+153.Gyrmyzy kyrkbogun-Polygonum persicaria-горец почечуйный
+154.Çäge gurtgyrany-Helichrysum arenarium-Бессмертник песчаный
+155.Gök daşkekre-Centaurea cyanus-Василек синий
+156.Gara miweli aroniýa-Aronia melanocarpa-Арония черноплодная
+157.Baýkal şlemnigi-Scutellaria baicalensis-Шлемник байкальский
+158.Tüýli gülli göwen-Astragalus dasyanthus-Астрагал густоцветковый
+159.Meýdan stalnigi-Ononis arvensis-Стальник полевой
+160.Ginko biloba-Ginkgo biloba-Гинкго билоба
+161.Alapakyr-Silybum marianum-Расторопша пятнистая
+162.Pissäniň gallalary-Gallae Pistaciae-Галлы фисташковые
+163.Adaty dub-Quercus robur-Дуб Черешчатый
+165.Hytaý Sumahy-Rhus chinensis-Сумах китайский
+166.Adaty nar-Punica granatum-Гранат обыкновенный
+167.Gaýtarma-Potentilla erecta-Лапчатка прямостоячая
+168.Badan-Bergenia crassifolia-Бадан толстолистый
+170.Et gyzyl kyrkbogny-Polygonum carneum-Горец мясо красный
+171.Adaty Krowahlýobka-Sanguisorba officinalis-Кровохлебка обыкновенная
+172.Çeremuha-Padus avium-Черемуха обыкновенная
+173.Skumpiýa-Cotinus coggýgria-Ску́мпия коже́венная
+174.Hytaý çaýy-Tea sinensis-Чай
+175.Ýelmeşegen olha-Alnus glutinosa-Ольха клейкая
+176.Çernika-Vaccinium myrtillus-Черника обыкновенная
+177.Şora sferofiza-Sphaerophysa salsula-Сферофиза солонцовая
+178.Hwoş görnüşli borjak-Ephedra equisetina-Эфедра хвощевая
+179.Çöl borjagy-Ephedra intermedia-Эфедра пустынная
+180.Owadan sawramça-Colchicum speciosum-Безвременник великолепный
+181.Gyzyl burç-Capsicum annuum-Перец однолетний
+182.Sarysolmaz-Senecio platyphylloides-Крестовник плосколистный
+183.Romb ýaprakly sarysolmaz-Senecio rhombifolius-Крестовник ромболистный
+184.Okopnik-Symphytum asperum-Окопник жесткий
+185.Türkmen Selmelegi-Mandragora turcomanica-Мандрагора туркменская
+186.Koka agajy-Erythroxylon coca-Кокаиновый куст
+187.Çyrmaşyk-Convolvulus arvensis-Вьюнок полевой
+188.Adaty temmäki-Nicotina tabacum-Табак обыкновенный
+189.Sekurinega-Securinega suffruticosa-Секуринега полукустарниковая
+190.Sary kubyşka-Nuphar luteum-Кубышка Желтая
+191.Termopsis-Thermopsis lanceolate-Термопсис ланцетный
+192.Ajy buýan-Sophora pachycarpa-Сафора толстоплодная
+193.Plaun baranes-Huperzia selago-Плаун баранец
+194.Alagamak-Conium maculatum-Балиголов пятнистый
+195.Öldürik-Anabasis aphylla-Анабазин безлистный
+196.Lobeliýa-Lobelia inflata-Лобелия Вздутая
+197.Adaty belladonna-Atropa belladonna-Красавка обыкновенная
+198.Kawkaz belladonna-Atropa caucasica-Красавку кавказская
+199.Gara maňyrsak-Hyoscyamus niger-Белена черная
+200.Adaty dänegerçek-Datura stramonium-Дурман обыкновенный
+201.Hindi dänegerçek-Datura innoxia-Дурман индийский
+202.Skopoliýa-Scopolia carniolica-Скополия карниолийская
+203.Ukladyjy gülälek-Papaver somniferum-мак снатворный
+204.Sary gülälek-Glaucium flavum crantz-Мачок желтый
+205.Adaty zirk-Berberis vulgaris-Барбарис обыкновенный
+206.Çerkez-Salsola Richteri-Солянкa Рихтера
+207.Ýylmanak Stefaniýa-Stephania glabra-Стефания гладкая
+209.Demrew oty-Chelidonium majus-Чистотел большой
+210.Gaýtardyjy kök-Cephaelis ipecacuanha-Ипекакуана
+211.Sewersowyň gaýrajy-Ungemia sewerzowii-Унгерния Северцева
+212.Ýürek şekilli makleýa-Macleaya cordata-маклейя сердцевидная
+213.Kiçi miweli makleýa-Macleaya microcarpa-Маклейя мелкоплодная
+214.Woronowyň podsnežnigi-Galanthus woronowii-Подснежник Воронова
+215.Kiçi wasilisnik-Thalictrum minus-Василисник малый
+216.Porsy wasilisnik-Thalictrum foetidum-Bасилисник вонючий
+217.Tüýli Hinna agajy-Cinchona pubescens-Цинхона пушистая
+218.Lejeriň Hinnasy-Cinchona Ledgeriana-цинхона Леджера
+219.Adaty Kirpi gül-Echinops ritro-Мордовник обыкновенный
+220.Şar şekilli kirpigül-Echinops sphaerocephalus-мордовник шароголовый
+221.Garabaş-Claviceps purpurea-Спорынья
+222.Passiflora-Passiflora incamata-Пассифлора инкарнатная
+223.Ýylan rauwolfiasy-Rauwolfia serpentina-Раувольфия змеиная
+224.Çilibuha-Strychnos nux vomica-Чилибуха
+225.Gülgüne katarantus-Catharanthus roseus-Катарантус розовый
+226.Barbinok-Vinca minor-Барвинок малый
+227.Zäherli fizostigma-Physostigma venenosum-Физостигма ядовитая
+228.Gyýa ýaprakly pilokarpus-Pilocarpus pennatifolius-Пилокарпус перистолистный
+229.Ýüzärlik-Peganum harmala-Гармала обыкновенная
+230.Hytaý çaýy-Thea Sinensis-Чай китайский
+231.Arab Kofe agajy-Coffea arabica-Кофейные деревья: аравийское
+232.Liber kofe-Coffea liberica-Кофе либерийское
+233.Güýçli kofe-Coffea conephora-Кофе конголезское мощное
+234.Ýönekeý firmiana-Firmiana simplex-Фирмиана простая
+235.Tor miweli Saryçöp-Delphinium dictyocarpum-Живокость сетчатоплодная
+237.Jungar Akonit-Aconitum soongoricum-Аконит джунгарский
+238.Itüzüm-Solanum laciniatum-Паслен дольчатый
+239.Lobelianyň Çemerisasy-Veratrum lobelianum-Чемерица Лобеля
